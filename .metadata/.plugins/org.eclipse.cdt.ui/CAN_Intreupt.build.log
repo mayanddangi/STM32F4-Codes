@@ -1,0 +1,10 @@
+12:04:29 **** Incremental Build of configuration Debug for project CAN_Intreupt ****
+make -j12 all 
+arm-none-eabi-size   CAN_Intreupt.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12480	    120	   1640	  14240	   37a0	CAN_Intreupt.elf
+Finished building: default.size.stdout
+ 
+
+12:04:30 Build Finished. 0 errors, 0 warnings. (took 429ms)
+

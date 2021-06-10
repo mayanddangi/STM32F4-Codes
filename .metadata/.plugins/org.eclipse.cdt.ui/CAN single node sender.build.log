@@ -1,0 +1,25 @@
+11:57:27 **** Incremental Build of configuration Debug for project CAN single node sender ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m0 -std=gnu11 -g3 -DUSE_HAL_DRIVER -DSTM32F042x6 -DDEBUG -c -I../Core/Inc -I../Drivers/STM32F0xx_HAL_Driver/Inc -I../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F0xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'CANReceive':
+../Core/Src/main.c:281:16: warning: format '%d' expects argument of type 'int', but argument 3 has type 'uint32_t {aka long unsigned int}' [-Wformat=]
+    printf("%d %d\n", DATA[0], id);
+               ~^
+               %ld
+arm-none-eabi-gcc -o "CAN single node sender.elf" @"objects.list"   -mcpu=cortex-m0 -T"E:\CAN\CAN Single Node 1st Iteration Code\CAN single node sender\STM32F042C6TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="CAN single node sender.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: CAN single node sender.elf
+ 
+arm-none-eabi-objdump -h -S  CAN\ single\ node\ sender.elf  > "CAN single node sender.list"
+arm-none-eabi-objcopy  -O binary  CAN\ single\ node\ sender.elf  "CAN single node sender.bin"
+arm-none-eabi-size   CAN\ single\ node\ sender.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6764	     20	   1612	   8396	   20cc	CAN single node sender.elf
+Finished building: default.size.stdout
+ 
+Finished building: CAN single node sender.bin
+Finished building: CAN single node sender.list
+ 
+ 
+
+11:57:28 Build Finished. 0 errors, 1 warnings. (took 737ms)
+

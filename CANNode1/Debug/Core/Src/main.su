@@ -1,0 +1,6 @@
+main.c:71:5:main	8	static
+main.c:140:6:CAN_Transmit_Message	40	static
+main.c:166:6:SystemClock_Config	88	static
+main.c:201:13:MX_CAN_Init	8	static
+main.c:238:13:MX_GPIO_Init	48	static
+main.c:267:6:Error_Handler	8	static

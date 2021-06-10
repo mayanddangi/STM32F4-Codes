@@ -1,0 +1,392 @@
+2021-02-14 15:30:36,157 [INFO] Activator:178 - 
+
+
+2021-02-14 15:30:36,172 [INFO] Activator:179 - !SESSION log4j initialized
+2021-02-14 16:13:18,829 [INFO] Activator:178 - 
+
+
+2021-02-14 16:13:18,839 [INFO] Activator:179 - !SESSION log4j initialized
+2021-02-15 15:05:47,876 [INFO] Activator:178 - 
+
+
+2021-02-15 15:05:47,880 [INFO] Activator:179 - !SESSION log4j initialized
+2021-02-15 22:26:18,406 [INFO] Activator:178 - 
+
+
+2021-02-15 22:26:18,408 [INFO] Activator:179 - !SESSION log4j initialized
+2021-02-16 14:37:29,914 [INFO] Activator:178 - 
+
+
+2021-02-16 14:37:29,919 [INFO] Activator:179 - !SESSION log4j initialized
+2021-02-17 13:25:13,637 [INFO] Activator:178 - 
+
+
+2021-02-17 13:25:13,641 [INFO] Activator:179 - !SESSION log4j initialized
+2021-02-17 17:03:32,885 [INFO] Activator:178 - 
+
+
+2021-02-17 17:03:32,888 [INFO] Activator:179 - !SESSION log4j initialized
+2021-02-17 17:08:31,034 [INFO] Activator:178 - 
+
+
+2021-02-17 17:08:31,034 [INFO] Activator:179 - !SESSION log4j initialized
+2021-02-17 17:12:10,693 [INFO] Activator:178 - 
+
+
+2021-02-17 17:12:10,697 [INFO] Activator:179 - !SESSION log4j initialized
+2021-02-19 16:08:08,184 [INFO] Activator:178 - 
+
+
+2021-02-19 16:08:08,190 [INFO] Activator:179 - !SESSION log4j initialized
+2021-02-19 23:20:10,239 [ERROR] ApiDbMcu:1464 - Can't use Application install path:
+2021-02-19 23:20:23,945 [WARN] RulesReader:54 - Compatibility file://mcu/compatibility.xml not found
+2021-02-19 23:40:26,866 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.prefix.1410674070 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:40:26,881 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.mcu.1657971800 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:40:26,881 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.board.1595552195 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:40:26,881 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.instructionSet.434367089 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:40:26,881 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.fpu.1458419261 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:40:26,881 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.floatabi.704114427 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:40:26,915 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.prefix.1410674070 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:40:26,915 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.mcu.1657971800 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:40:26,915 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.board.1595552195 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:40:26,930 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.instructionSet.434367089 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:40:26,930 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.fpu.1458419261 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:40:26,930 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.floatabi.704114427 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:53:31,896 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.prefix.146888792 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:53:31,899 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.mcu.1089013941 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:53:31,903 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.board.169033535 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:53:31,907 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.instructionSet.1256402358 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:53:31,911 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.fpu.2092950505 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:53:31,914 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.floatabi.1129780037 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:53:31,933 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.prefix.146888792 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:53:31,936 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.mcu.1089013941 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:53:31,939 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.board.169033535 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:53:31,943 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.instructionSet.1256402358 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:53:31,945 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.fpu.2092950505 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:53:31,948 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.floatabi.1129780037 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:53:31,984 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.prefix.146888792 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:53:31,987 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.mcu.1089013941 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:53:31,990 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.board.169033535 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:53:31,992 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.instructionSet.1256402358 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:53:31,996 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.fpu.2092950505 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:53:31,999 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.floatabi.1129780037 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:53:32,012 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.prefix.146888792 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:53:32,012 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.mcu.1089013941 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:53:32,012 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.board.169033535 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:53:32,012 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.instructionSet.1256402358 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:53:32,012 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.fpu.2092950505 uses a null category that is invalid in its context. The option was ignored.
+2021-02-19 23:53:32,027 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option fr.ac6.managedbuild.option.gnu.cross.floatabi.1129780037 uses a null category that is invalid in its context. The option was ignored.
+2021-02-20 14:31:39,708 [INFO] Activator:178 - 
+
+
+2021-02-20 14:31:39,724 [INFO] Activator:179 - !SESSION log4j initialized
+2021-03-02 15:45:19,402 [INFO] Activator:178 - 
+
+
+2021-03-02 15:45:19,407 [INFO] Activator:179 - !SESSION log4j initialized
+2021-03-21 14:50:02,512 [INFO] Activator:178 - 
+
+
+2021-03-21 14:50:02,517 [INFO] Activator:179 - !SESSION log4j initialized
+2021-03-22 13:39:17,737 [INFO] Activator:178 - 
+
+
+2021-03-22 13:39:17,745 [INFO] Activator:179 - !SESSION log4j initialized
+2021-03-22 13:39:29,235 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-22 13:39:29,238 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-22 13:39:29,776 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-22 13:39:29,777 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-22 13:39:31,968 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-22 13:39:31,968 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-22 13:39:32,622 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-22 13:39:32,623 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-22 13:39:33,255 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-22 13:39:33,256 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-22 13:39:33,932 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-22 13:39:33,933 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-22 13:39:40,805 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-22 13:39:40,805 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-22 13:39:42,310 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-22 13:39:42,310 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-22 13:39:44,016 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-22 13:39:44,016 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-22 13:39:45,918 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-22 13:39:45,919 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-22 13:39:47,675 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-22 13:39:47,675 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-22 18:18:37,196 [ERROR] ApiDbMcu:1464 - Can't use Application install path:
+2021-03-22 18:18:50,988 [WARN] RulesReader:54 - Compatibility file://mcu/compatibility.xml not found
+2021-03-23 15:45:25,265 [INFO] Activator:178 - 
+
+
+2021-03-23 15:45:25,265 [INFO] Activator:179 - !SESSION log4j initialized
+2021-03-24 17:16:30,549 [INFO] Activator:178 - 
+
+
+2021-03-24 17:16:30,549 [INFO] Activator:179 - !SESSION log4j initialized
+2021-03-24 17:16:38,918 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-24 17:16:38,918 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-24 17:16:39,370 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-24 17:16:39,385 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-24 17:16:41,619 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-24 17:16:41,619 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-24 17:16:42,150 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-24 17:16:42,150 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-24 17:16:42,682 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-24 17:16:42,682 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-24 17:16:43,213 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-24 17:16:43,213 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-24 17:16:43,727 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-24 17:16:43,727 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-24 17:16:44,227 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-24 17:16:44,227 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-24 17:16:44,753 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-24 17:16:44,753 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-25 00:55:21,604 [INFO] Activator:178 - 
+
+
+2021-03-25 00:55:21,604 [INFO] Activator:179 - !SESSION log4j initialized
+2021-03-25 14:48:12,925 [INFO] Activator:178 - 
+
+
+2021-03-25 14:48:12,925 [INFO] Activator:179 - !SESSION log4j initialized
+2021-03-27 13:08:29,393 [INFO] Activator:178 - 
+
+
+2021-03-27 13:08:29,402 [INFO] Activator:179 - !SESSION log4j initialized
+2021-03-27 13:08:44,513 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-27 13:08:44,517 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-27 13:08:45,046 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-27 13:08:45,046 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-27 13:08:47,702 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-27 13:08:47,703 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-27 13:08:48,305 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-27 13:08:48,305 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-27 13:08:48,916 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-27 13:08:48,917 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-27 13:08:49,533 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-27 13:08:49,533 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-27 13:08:50,132 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-27 13:08:50,132 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-27 13:08:50,744 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-27 13:08:50,744 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-27 13:08:51,282 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-27 13:08:51,282 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-28 00:12:56,906 [INFO] Activator:178 - 
+
+
+2021-03-28 00:12:56,910 [INFO] Activator:179 - !SESSION log4j initialized
+2021-03-28 00:13:08,220 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-28 00:13:08,223 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-28 00:13:08,783 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-28 00:13:08,783 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-28 00:13:11,398 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-28 00:13:11,399 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-28 00:13:11,988 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-28 00:13:11,989 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-28 00:13:12,637 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-28 00:13:12,637 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-28 00:13:13,259 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-28 00:13:13,260 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-28 00:13:13,901 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-28 00:13:13,901 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-28 00:13:14,442 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-28 00:13:14,442 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-28 00:13:14,973 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-28 00:13:14,973 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-28 00:13:19,672 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://sw-center.st.com:80: Socket Closed
+2021-03-28 00:13:19,677 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-28 00:43:54,788 [INFO] Activator:178 - 
+
+
+2021-03-28 00:43:54,791 [INFO] Activator:179 - !SESSION log4j initialized
+2021-03-28 00:44:35,881 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-28 00:44:35,884 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-28 00:44:36,362 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-28 00:44:36,363 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-28 00:44:49,974 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-28 00:44:49,975 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-28 10:54:06,284 [INFO] Activator:178 - 
+
+
+2021-03-28 10:54:06,289 [INFO] Activator:179 - !SESSION log4j initialized
+2021-03-28 10:54:19,710 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-28 10:54:19,714 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-28 10:54:20,301 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-28 10:54:20,302 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-28 10:54:23,136 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-28 10:54:23,137 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-28 10:54:23,716 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-28 10:54:23,716 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-28 10:54:24,286 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-28 10:54:24,286 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-28 10:54:24,970 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-28 10:54:24,970 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-28 10:54:25,514 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-28 10:54:25,514 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-28 10:54:26,077 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-28 10:54:26,077 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-28 10:54:26,607 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-28 10:54:26,607 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-04-01 22:51:33,414 [INFO] Activator:178 - 
+
+
+2021-04-01 22:51:33,424 [INFO] Activator:179 - !SESSION log4j initialized
+2021-04-01 22:51:55,034 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-04-01 22:51:55,038 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-04-01 22:51:55,491 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-04-01 22:51:55,493 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-04-01 22:51:59,321 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-04-01 22:51:59,321 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-04-01 22:52:01,246 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-04-01 22:52:01,247 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-04-01 22:52:06,058 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-04-01 22:52:06,058 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-04-03 22:40:43,222 [INFO] Activator:178 - 
+
+
+2021-04-03 22:40:43,226 [INFO] Activator:179 - !SESSION log4j initialized
+2021-04-04 00:11:36,124 [INFO] Activator:178 - 
+
+
+2021-04-04 00:11:36,124 [INFO] Activator:179 - !SESSION log4j initialized
+2021-04-07 16:04:50,551 [INFO] Activator:178 - 
+
+
+2021-04-07 16:04:50,557 [INFO] Activator:179 - !SESSION log4j initialized
+2021-04-13 14:53:45,655 [INFO] Activator:178 - 
+
+
+2021-04-13 14:53:45,663 [INFO] Activator:179 - !SESSION log4j initialized
+2021-04-13 16:52:56,824 [INFO] Activator:178 - 
+
+
+2021-04-13 16:52:56,824 [INFO] Activator:179 - !SESSION log4j initialized
+2021-04-13 17:40:42,089 [ERROR] ApiDbMcu:1464 - Can't use Application install path:
+2021-04-13 17:40:53,493 [WARN] RulesReader:54 - Compatibility file://mcu/compatibility.xml not found
+2021-04-14 06:31:55,369 [INFO] Activator:178 - 
+
+
+2021-04-14 06:31:55,377 [INFO] Activator:179 - !SESSION log4j initialized
+2021-04-15 15:00:01,449 [INFO] Activator:178 - 
+
+
+2021-04-15 15:00:01,454 [INFO] Activator:179 - !SESSION log4j initialized
+2021-04-15 17:53:31,983 [INFO] Activator:178 - 
+
+
+2021-04-15 17:53:31,983 [INFO] Activator:179 - !SESSION log4j initialized
+2021-04-16 12:39:23,239 [INFO] Activator:178 - 
+
+
+2021-04-16 12:39:23,245 [INFO] Activator:179 - !SESSION log4j initialized
+2021-04-16 18:51:02,068 [INFO] Activator:178 - 
+
+
+2021-04-16 18:51:02,075 [INFO] Activator:179 - !SESSION log4j initialized
+2021-04-17 19:05:11,234 [INFO] Activator:178 - 
+
+
+2021-04-17 19:05:11,242 [INFO] Activator:179 - !SESSION log4j initialized
+2021-04-18 16:56:00,245 [INFO] Activator:178 - 
+
+
+2021-04-18 16:56:00,248 [INFO] Activator:179 - !SESSION log4j initialized
+2021-04-19 16:55:52,495 [INFO] Activator:178 - 
+
+
+2021-04-19 16:55:52,504 [INFO] Activator:179 - !SESSION log4j initialized
+2021-04-19 23:37:08,455 [INFO] Activator:178 - 
+
+
+2021-04-19 23:37:08,459 [INFO] Activator:179 - !SESSION log4j initialized
+2021-04-22 13:09:35,444 [INFO] Activator:178 - 
+
+
+2021-04-22 13:09:35,449 [INFO] Activator:179 - !SESSION log4j initialized
+2021-05-12 13:42:12,204 [INFO] Activator:178 - 
+
+
+2021-05-12 13:42:12,210 [INFO] Activator:179 - !SESSION log4j initialized
+2021-05-12 14:24:20,982 [INFO] Activator:178 - 
+
+
+2021-05-12 14:24:20,985 [INFO] Activator:179 - !SESSION log4j initialized
+2021-05-12 14:25:24,388 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://download.eclipse.org:443: The target server failed to respond
+2021-05-12 14:25:24,391 [INFO] RetryExec:113 - Retrying request to {s}->https://download.eclipse.org:443
+2021-05-12 14:25:27,958 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://download.eclipse.org:443: The target server failed to respond
+2021-05-12 14:25:27,959 [INFO] RetryExec:113 - Retrying request to {s}->https://download.eclipse.org:443
+2021-05-20 14:07:22,790 [INFO] Activator:178 - 
+
+
+2021-05-20 14:07:22,797 [INFO] Activator:179 - !SESSION log4j initialized
+2021-05-22 16:46:21,203 [INFO] Activator:178 - 
+
+
+2021-05-22 16:46:21,208 [INFO] Activator:179 - !SESSION log4j initialized
+2021-05-23 18:11:24,983 [INFO] Activator:178 - 
+
+
+2021-05-23 18:11:24,989 [INFO] Activator:179 - !SESSION log4j initialized
+2021-05-23 18:11:48,248 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://sw-center.st.com:80: Socket operation on nonsocket: configureBlocking
+2021-05-23 18:11:48,252 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-05-25 10:15:15,210 [INFO] Activator:178 - 
+
+
+2021-05-25 10:15:15,210 [INFO] Activator:179 - !SESSION log4j initialized
+2021-05-25 10:26:57,348 [ERROR] ApiDbMcu:1464 - Can't use Application install path:
+2021-05-25 10:27:02,304 [WARN] RulesReader:54 - Compatibility file://mcu/compatibility.xml not found
+2021-05-25 12:08:55,793 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://sw-center.st.com:80: Connection reset
+2021-05-25 12:08:55,793 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-05-25 12:11:02,072 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://mirror1.cl.netactuate.com:443: The target server failed to respond
+2021-05-25 12:11:02,072 [INFO] RetryExec:113 - Retrying request to {s}->https://mirror1.cl.netactuate.com:443
+2021-05-30 19:50:37,277 [INFO] Activator:178 - 
+
+
+2021-05-30 19:50:37,287 [INFO] Activator:179 - !SESSION log4j initialized
+2021-05-30 19:50:42,006 [ERROR] ApiDbMcu:1464 - Can't use Application install path:
+2021-05-30 19:50:46,655 [WARN] RulesReader:54 - Compatibility file://mcu/compatibility.xml not found
+2021-05-30 19:51:53,676 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://download.eclipse.org:443: The target server failed to respond
+2021-05-30 19:51:53,683 [INFO] RetryExec:113 - Retrying request to {s}->https://download.eclipse.org:443
+2021-06-03 08:45:00,301 [INFO] Activator:178 - 
+
+
+2021-06-03 08:45:00,305 [INFO] Activator:179 - !SESSION log4j initialized
+2021-06-03 08:45:03,064 [ERROR] ApiDbMcu:1464 - Can't use Application install path:
+2021-06-03 08:45:07,828 [WARN] RulesReader:54 - Compatibility file://mcu/compatibility.xml not found
+2021-06-04 16:47:52,743 [INFO] Activator:178 - 
+
+
+2021-06-04 16:47:52,748 [INFO] Activator:179 - !SESSION log4j initialized
+2021-06-06 11:40:06,476 [INFO] Activator:178 - 
+
+
+2021-06-06 11:40:06,480 [INFO] Activator:179 - !SESSION log4j initialized
+2021-06-06 21:12:54,876 [INFO] Activator:178 - 
+
+
+2021-06-06 21:12:54,876 [INFO] Activator:179 - !SESSION log4j initialized
+2021-06-07 20:11:40,283 [INFO] Activator:178 - 
+
+
+2021-06-07 20:11:40,287 [INFO] Activator:179 - !SESSION log4j initialized
+2021-06-08 13:36:28,499 [INFO] Activator:178 - 
+
+
+2021-06-08 13:36:28,504 [INFO] Activator:179 - !SESSION log4j initialized
+2021-06-09 09:49:31,525 [INFO] Activator:178 - 
+
+
+2021-06-09 09:49:31,541 [INFO] Activator:179 - !SESSION log4j initialized
+2021-06-09 13:41:15,251 [INFO] Activator:178 - 
+
+
+2021-06-09 13:41:15,251 [INFO] Activator:179 - !SESSION log4j initialized
+2021-06-09 18:34:08,179 [INFO] Activator:178 - 
+
+
+2021-06-09 18:34:08,183 [INFO] Activator:179 - !SESSION log4j initialized
+2021-06-10 10:04:57,248 [INFO] Activator:178 - 
+
+
+2021-06-10 10:04:57,248 [INFO] Activator:179 - !SESSION log4j initialized

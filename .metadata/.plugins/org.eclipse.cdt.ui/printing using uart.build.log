@@ -1,0 +1,26 @@
+16:59:52 **** Incremental Build of configuration Debug for project printing using uart ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m0 -std=gnu11 -g3 -DUSE_HAL_DRIVER -DSTM32F051x8 -DDEBUG -c -I../Core/Inc -I../Drivers/STM32F0xx_HAL_Driver/Inc -I../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F0xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:111:50: warning: implicit declaration of function 'strlen' [-Wimplicit-function-declaration]
+    HAL_UART_Transmit(&huart2, (uint8_t *)txData, strlen(txData), 1000);
+                                                  ^~~~~~
+../Core/Src/main.c:111:50: warning: incompatible implicit declaration of built-in function 'strlen'
+../Core/Src/main.c:111:50: note: include '<string.h>' or provide a declaration of 'strlen'
+arm-none-eabi-gcc -o "printing using uart.elf" @"objects.list"   -mcpu=cortex-m0 -T"E:\Axlr8r\STM32\printing using uart\STM32F051R8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="printing using uart.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: printing using uart.elf
+ 
+arm-none-eabi-objdump -h -S  printing\ using\ uart.elf  > "printing using uart.list"
+arm-none-eabi-objcopy  -O binary  printing\ using\ uart.elf  "printing using uart.bin"
+arm-none-eabi-size   printing\ using\ uart.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9100	     20	   1988	  11108	   2b64	printing using uart.elf
+Finished building: default.size.stdout
+ 
+Finished building: printing using uart.bin
+ 
+Finished building: printing using uart.list
+ 
+
+16:59:53 Build Finished. 0 errors, 2 warnings. (took 1s.277ms)
+

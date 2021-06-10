@@ -1,0 +1,10 @@
+23:58:10 **** Incremental Build of configuration Debug for project TFTLCD ****
+make all 
+arm-none-eabi-size   TFTLCD.elf 
+   text	   data	    bss	    dec	    hex	filename
+ 253152	     72	   1664	 254888	  3e3a8	TFTLCD.elf
+Finished building: default.size.stdout
+ 
+
+23:58:10 Build Finished. 0 errors, 0 warnings. (took 242ms)
+

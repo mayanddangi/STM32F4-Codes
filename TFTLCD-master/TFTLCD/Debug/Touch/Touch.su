@@ -1,0 +1,7 @@
+Touch.c:544:9:TP_Init	40	static
+Touch.c:40:6:TP_Write_Byte	16	static
+Touch.c:64:10:TP_Read_AD	16	static
+Touch.c:105:10:TP_Read_XOY	32	static
+Touch.c:139:9:TP_Read_XY	24	static
+Touch.c:163:9:TP_Read_XY2	24	static
+Touch.c:234:9:TP_Scan	8	static

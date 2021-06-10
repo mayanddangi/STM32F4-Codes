@@ -1,0 +1,13 @@
+23:44:10 **** Incremental Build of configuration Debug for project STM32F429I-Discovery ****
+make all 
+arm-none-eabi-gcc "E:/Axlr8r/STM32/STM32F4-discovery-lcd-master/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DUSE_HAL_DRIVER -DSTM32F429xx -DUSE_STM32F429I_DISCO -c -I../../../Inc -I../../../../../../../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../../../../../../../../Drivers/STM32F4xx_HAL_Driver/Inc -I../../../../../../../../Drivers/BSP/STM32F429I-Discovery -I../../../../../../../../Drivers/CMSIS/Include -Os -ffunction-sections -Wall -Wno-unused-variable -Wno-pointer-sign -Wno-main -Wno-format -Wno-address -Wno-unused-but-set-variable -Wno-strict-aliasing -Wno-parentheses -Wno-missing-braces -fstack-usage -MMD -MP -MF"Example/User/main.d" -MT"Example/User/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Example/User/main.o"
+In file included from E:/Axlr8r/STM32/STM32F4-discovery-lcd-master/Src/main.c:40:0:
+../../../Inc/main.h:43:10: fatal error: stm32f429i_discovery.h: No such file or directory
+ #include "stm32f429i_discovery.h"
+          ^~~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+make: *** [Example/User/subdir.mk:24: Example/User/main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+
+23:44:11 Build Failed. 2 errors, 0 warnings. (took 369ms)
+
