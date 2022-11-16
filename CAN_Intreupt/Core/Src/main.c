@@ -111,9 +111,9 @@ int main(void)
 
 	 //CANReceive();
 	 //HAL_Delay(100);
-	 //HAL_GPIO_TogglePin (GPIOB, GPIO_PIN_12);
-	uint8_t DATA1[] = {5,4,3,2,1,12,5,4};
-	 CANTransmit((uint32_t)0x02, 0, 0, 8, DATA1);
+	 HAL_GPIO_TogglePin (GPIOB, GPIO_PIN_12);
+	//uint8_t DATA1[] = {5,4,3,2,1,12,5,4};
+	// CANTransmit((uint32_t)0x02, 0, 0, 8, DATA1);
 	 HAL_Delay(500);
   }
   /* USER CODE END 3 */

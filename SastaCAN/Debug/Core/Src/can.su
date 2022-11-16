@@ -1,0 +1,8 @@
+can.c:9:19:CAN_Start	16	static
+can.c:17:19:CAN_SetFilter	64	static
+can.c:35:19:CAN_Transmit	56	static
+can.c:53:19:CAN_TransmitType2	40	static
+can.c:156:19:CAN_TransmitAnalog	64	static
+can.c:174:19:CAN_RecieveType2	32	static
+can.c:253:19:CAN_Recieve	56	static
+can.c:266:19:CAN_RecieveAnalog	64	static

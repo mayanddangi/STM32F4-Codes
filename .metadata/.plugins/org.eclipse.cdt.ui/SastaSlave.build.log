@@ -1,0 +1,10 @@
+18:56:49 **** Incremental Build of configuration Debug for project SastaSlave ****
+make -j12 all 
+arm-none-eabi-size   SastaSlave.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5112	     20	   1572	   6704	   1a30	SastaSlave.elf
+Finished building: default.size.stdout
+ 
+
+18:56:50 Build Finished. 0 errors, 0 warnings. (took 682ms)
+

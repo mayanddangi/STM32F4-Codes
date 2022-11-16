@@ -1,0 +1,10 @@
+18:56:50 **** Incremental Build of configuration Debug for project TimerIT ****
+make -j12 all 
+arm-none-eabi-size   TimerIT.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7780	     20	   1644	   9444	   24e4	TimerIT.elf
+Finished building: default.size.stdout
+ 
+
+18:56:51 Build Finished. 0 errors, 0 warnings. (took 719ms)
+

@@ -1,0 +1,20 @@
+09:05:52 **** Incremental Build of configuration Debug for project Front Bhaiya_CAN_chalade ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DUSE_HAL_DRIVER -DDEBUG -DSTM32F429xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "Front Bhaiya_CAN_chalade.elf" @"objects.list"   -mcpu=cortex-m4 -T"E:\Axlr8r\STM32\Front Bhaiya_CAN_chalade\STM32F429ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Front Bhaiya_CAN_chalade.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: Front Bhaiya_CAN_chalade.elf
+ 
+arm-none-eabi-objdump -h -S  Front\ Bhaiya_CAN_chalade.elf  > "Front Bhaiya_CAN_chalade.list"
+arm-none-eabi-objcopy  -O binary  Front\ Bhaiya_CAN_chalade.elf  "Front Bhaiya_CAN_chalade.bin"
+arm-none-eabi-size   Front\ Bhaiya_CAN_chalade.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10832	     20	   1716	  12568	   3118	Front Bhaiya_CAN_chalade.elf
+Finished building: Front Bhaiya_CAN_chalade.list
+Finished building: default.size.stdout
+Finished building: Front Bhaiya_CAN_chalade.bin
+ 
+ 
+ 
+
+09:05:56 Build Finished. 0 errors, 0 warnings. (took 4s.142ms)
+

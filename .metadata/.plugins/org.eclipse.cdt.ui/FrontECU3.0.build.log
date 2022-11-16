@@ -1,0 +1,20 @@
+21:10:05 **** Incremental Build of configuration Debug for project FrontECU3.0 ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/front.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F429xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/front.d" -MT"Core/Src/front.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/front.o"
+arm-none-eabi-gcc -o "FrontECU3.0.elf" @"objects.list"   -mcpu=cortex-m4 -T"E:\Axlr8r\DAQ\CommCode\FrontECU3.0\STM32F429ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="FrontECU3.0.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: FrontECU3.0.elf
+ 
+arm-none-eabi-objdump -h -S  FrontECU3.0.elf  > "FrontECU3.0.list"
+arm-none-eabi-objcopy  -O binary  FrontECU3.0.elf  "FrontECU3.0.bin"
+arm-none-eabi-size   FrontECU3.0.elf 
+   text	   data	    bss	    dec	    hex	filename
+  20968	     36	   2372	  23376	   5b50	FrontECU3.0.elf
+Finished building: default.size.stdout
+ 
+Finished building: FrontECU3.0.bin
+ 
+Finished building: FrontECU3.0.list
+ 
+
+21:10:06 Build Finished. 0 errors, 0 warnings. (took 1s.365ms)
+

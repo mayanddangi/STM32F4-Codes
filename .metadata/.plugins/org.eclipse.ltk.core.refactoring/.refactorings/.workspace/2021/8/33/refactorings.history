@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;FrontECU3.0/Core/Src/front.c&apos;" deleteContents="false" description="Delete resource &apos;FrontECU3.0/Core/Src/front.c&apos;" element1="/FrontECU3.0/Core/Src/front.c" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1628609334192"/>&#x0A;<refactoring comment="Delete resource &apos;FrontECU3.0/Core/Inc/front.h&apos;" deleteContents="false" description="Delete resource &apos;FrontECU3.0/Core/Inc/front.h&apos;" element1="/FrontECU3.0/Core/Inc/front.h" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1628609338954"/>
+</session>

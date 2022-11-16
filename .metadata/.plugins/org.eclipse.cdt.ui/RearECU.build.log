@@ -1,23 +1,10 @@
-10:00:31 **** Incremental Build of configuration Debug for project RearECU ****
+11:38:19 **** Incremental Build of configuration Debug for project RearECU ****
 make -j12 all 
-arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DUSE_HAL_DRIVER -DDEBUG -DSTM32F429xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
-../Core/Src/main.c:25:21: warning: extra tokens at end of #include directive
- #include <stdbool.h>;
-                     ^
-arm-none-eabi-gcc -o "RearECU.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\lenovo\Desktop\CAN XLR20\XLR20\RearECU\STM32F429ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="RearECU.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
-Finished building target: RearECU.elf
- 
-arm-none-eabi-objdump -h -S  RearECU.elf  > "RearECU.list"
-arm-none-eabi-objcopy  -O binary  RearECU.elf  "RearECU.bin"
 arm-none-eabi-size   RearECU.elf 
    text	   data	    bss	    dec	    hex	filename
-  10752	     24	   1768	  12544	   3100	RearECU.elf
+  10320	     20	   1812	  12152	   2f78	RearECU.elf
 Finished building: default.size.stdout
  
-Finished building: RearECU.bin
- 
-Finished building: RearECU.list
- 
 
-10:00:33 Build Finished. 0 errors, 1 warnings. (took 2s.152ms)
+11:38:19 Build Finished. 0 errors, 0 warnings. (took 518ms)
 

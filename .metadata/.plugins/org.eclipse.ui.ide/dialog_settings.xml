@@ -9,6 +9,10 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="E:\Axlr8r\STM32\Basic-EVE-Demo-STM32-master"/>
+			<item value="C:\Users\lenovo\Downloads\codes_10_2_2021\Front_Code"/>
+			<item value="C:\Users\lenovo\Downloads\Rear_ADC"/>
+			<item value="E:\Axlr8r\STM32\SastaCAN"/>
 			<item value="E:\Axlr8r\STM32\TFTLCD-master\TFTLCD"/>
 			<item value="E:\Axlr8r\STM32\STM32F4-discovery-lcd-master"/>
 			<item value="E:\Axlr8r\STM32\STM32F4-discovery-lcd-master\startup\STM32F429I-Discovery"/>

@@ -1,0 +1,10 @@
+13:10:38 **** Incremental Build of configuration Debug for project Rear_Code ****
+make -j12 all 
+arm-none-eabi-size   Rear_Code.elf 
+   text	   data	    bss	    dec	    hex	filename
+  15532	     24	   1800	  17356	   43cc	Rear_Code.elf
+Finished building: default.size.stdout
+ 
+
+13:10:39 Build Finished. 0 errors, 0 warnings. (took 575ms)
+

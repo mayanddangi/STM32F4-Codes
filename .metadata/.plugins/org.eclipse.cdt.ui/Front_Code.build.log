@@ -1,0 +1,10 @@
+13:15:48 **** Incremental Build of configuration Debug for project Front_Code ****
+make -j12 all 
+arm-none-eabi-size   Front_Code.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14440	     28	   1812	  16280	   3f98	Front_Code.elf
+Finished building: default.size.stdout
+ 
+
+13:15:48 Build Finished. 0 errors, 0 warnings. (took 288ms)
+

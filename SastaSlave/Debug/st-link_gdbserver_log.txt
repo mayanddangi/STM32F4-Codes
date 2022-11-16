@@ -1,0 +1,57 @@
+[0.000] initConfigParams():  Configuration flags start
+[0.000] initConfigParams():   external-init                  false
+[0.000] initConfigParams():   pend-halt-timeout              (null)
+[0.000] initConfigParams():   halt                           false
+[0.000] initConfigParams():   config-file                    ""
+[0.000] initConfigParams():   persistent                     false
+[0.000] initConfigParams():  +log-file                       "E:\Axlr8r\STM32\SastaSlave\Debug\st-link_gdbserver_log.txt"
+[0.000] initConfigParams():  +log-level                      31
+[0.000] initConfigParams():  +port-number                    61234
+[0.000] initConfigParams():  +verbose                        true
+[0.000] initConfigParams():   refresh-delay                  15
+[0.000] initConfigParams():  +verify                         true
+[0.000] initConfigParams():  +swd                            true
+[0.000] initConfigParams():   swo-port                       61234
+[0.000] initConfigParams():   cpu-clock                      8000000
+[0.000] initConfigParams():   swo-clock-div                  128
+[0.000] initConfigParams():  +initialize-reset               true
+[0.000] initConfigParams():   debuggers                      false
+[0.000] initConfigParams():  +serial-number                  "57FF6D064883535247420487"
+[0.000] initConfigParams():  +apid                           0
+[0.000] initConfigParams():   attach                         false
+[0.000] initConfigParams():   shared                         false
+[0.000] initConfigParams():   erase-all                      false
+[0.001] initConfigParams():   memory-map                     ""
+[0.001] initConfigParams():   ext-memory-loaders             false
+[0.001] initConfigParams():   extload                        ""
+[0.001] initConfigParams():  +stm32cubeprogrammer-path       "D:\AXLR8R\STM32CubeIDE_1.4.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.4.0.202007081208\tools\bin"
+[0.001] initConfigParams():   temp-path                      ""
+[0.001] initConfigParams():   preserve-temps                 false
+[0.001] initConfigParams():   frequency                      -1
+[0.001] initConfigParams():   licenses                       false
+[0.001] initConfigParams():   ignore-rest                    false
+[0.001] initConfigParams():   version                        false
+[0.001] initConfigParams():   help                           false
+[0.001] initConfigParams():  Configuration flags end
+[0.001] init():  STMicroelectronics ST-LINK GDB server. Version 5.6.0
+Copyright (c) 2020, STMicroelectronics. All rights reserved.
+[0.016] Device_Initialise():  Target connection mode: Under reset
+[11.894] reset_hw_wtchpt_module():  Hardware watchpoint supported by the target 
+[11.897] Device_Initialise():  COM frequency = 4000 kHz
+[11.897] Device_Initialise():  ST-LINK Firmware version : V2J37S7
+[11.897] Device_Initialise():  Device ID: 0x448
+[11.898] Device_Initialise():  PC: 0xfffffffe
+[11.898] Device_GetStatus():  ST-LINK device status: HALT_MODE
+[11.899] Device_Initialise():  ST-LINK detects target voltage = 3.36 V
+[11.900] Device_Initialise():  ST-LINK device status: HALT_MODE
+[11.900] initServerContext():  ST-LINK device initialization OK
+[11.904] WaitConnection():  Waiting for connection on port 61234...
+[12.366] WaitConnection():  Accepted connection on port 61234...
+[12.367] Device_GetStatus():  ST-LINK device status: RESET_MODE
+[12.367] haltOnConnect():  Try halt...
+[15.124] read():  <136> Rx: +$qSupported:multiprocess+;swbreak+;hwbreak+;qRelocInsn+;fork-events+;vfork-events+;exec-events+;vContSupported+;QThreadEvents+;no-resumed+#df$qSupported:multiprocess+;swbreak+;hwbreak+;qRelocInsn+;fork-events+;vfork-events+;exec-events+;vContSupported+;QThreadEvents+;no-resumed+#df
+[15.147] write():  <136> Tx: +
+[15.150] write():  <136> Tx: $PacketSize=c00;qXfer:memory-map:read+;qXfer:features:read+;QStartNoAckMode+;QNonStop+;qXfer:threads:read+;hwbreak+;swbreak+#f2
+[15.150] write():  <136> Tx: +
+[15.150] write():  <136> Tx: $PacketSize=c00;qXfer:memory-map:read+;qXfer:features:read+;QStartNoAckMode+;QNonStop+;qXfer:threads:read+;hwbreak+;swbreak+#f2
+[15.150] read():  <136> Rx: +$vMustReplyEmpty#3a+
