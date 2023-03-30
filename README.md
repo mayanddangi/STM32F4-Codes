@@ -18,10 +18,9 @@ The repository contains code examples for the following functionalities:
 
 ### Prerequisites
 To run the code examples in this repository, you need:
-
-### STM32F4 Discovery board
-STM32CubeIDE (or any other IDE of your choice)
-USB cable to connect the board to your computer
+- STM32F4 Discovery board
+- STM32CubeIDE (or any other IDE of your choice)
+- USB cable to connect the board to your computer
 
 ### Contributing
 Contributions to this repository are welcome. If you find any issues with the code or would like to add more examples, please open an issue or submit a pull request.
